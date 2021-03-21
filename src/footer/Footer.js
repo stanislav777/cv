@@ -1,20 +1,20 @@
 import React from 'react';
 import style from './Footer.module.css';
 import styleContainer from '../common/styles/Container.module.css';
-import FooterBlock from "./block/FooterBlock";
 
 function Footer() {
     return (
-        <div className={style.projectsBlock}>
-            <div className={`${styleContainer.container} ${style.projectsContainer}`}>
+        <div className={style.footerBlock}>
+            <div className={`${styleContainer.container} ${style.footerContainer}`}>
                 <h2 className={style.title}>Милованов Станислав</h2>
-                <div className={style.projects}>
-                    <FooterBlock/>
-                    <FooterBlock/>
-                    <FooterBlock/>
-                    <FooterBlock/>
+                <div className={style.footer}>
+                    <div className={style.icon}></div>
+                    <div className={style.icon}></div>
+                    <div className={style.icon}></div>
+                    <div className={style.icon}></div>
+
                 </div>
-                <h2 className={style.title}>© 2021 Все права защищены</h2>
+                <h4 className={style.title}>© 2021 Все права защищены</h4>
             </div>
         </div>
     );
