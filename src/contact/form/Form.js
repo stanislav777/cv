@@ -3,14 +3,11 @@ import style from './Form.module.css';
 
 function Form() {
     return (
-        <div className={style.project}>
-            <form className={style.form}>
+           <form className={style.form}>
                  <input className={style.input} type = "text"  name = "firstname" value =  ""/>
                  <input className={style.input}type = "text" name = "lastname" value =  ""/>
-                     <textarea className={style.textarea}> и </textarea>
+                     <textarea className={style.textarea}>  </textarea>
             </form>
-
-        </div>
     );
 }
 

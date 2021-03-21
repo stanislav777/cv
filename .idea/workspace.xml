@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a8e1286-6b4c-41d8-ac43-4bb746333f42" name="Default Changelist" comment="1 commit">
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contact/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contact/Contact.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/contact/Contact.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contact/form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contact/form/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contact/form/Form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/contact/form/Form.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProjects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/myProjects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProjects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/myProjects/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProjects/project/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/myProjects/project/Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myProjects/project/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/myProjects/project/Project.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skills/skill/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/skill/Skill.module.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1pwU24Cg4r3tDp54TYu6dW6w7a3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/footer/block" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Users\User\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.5981.135\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WEB\2021\cv\my-app\src\footer\block" />
+      <recent name="F:\WEB\2021\cv\my-app\src\footer" />
+      <recent name="F:\WEB\2021\cv\my-app\src\myProjects\project" />
+      <recent name="F:\WEB\2021\cv\my-app\src\myProjects" />
+      <recent name="F:\WEB\2021\cv\my-app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WEB\2021\cv\my-app\src\contact\form" />
+      <recent name="F:\WEB\2021\cv\my-app\src\header" />
+      <recent name="F:\WEB\2021\cv\my-app\src\nav" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8e1286-6b4c-41d8-ac43-4bb746333f42" name="Default Changelist" comment="" />
+      <created>1616093435169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616093435169</updated>
+      <workItem from="1616093438135" duration="3238000" />
+      <workItem from="1616169659792" duration="14141000" />
+      <workItem from="1616248878431" duration="4264000" />
+      <workItem from="1616254341853" duration="31315000" />
+    </task>
+    <task id="LOCAL-00001" summary="1 commit">
+      <created>1616342373350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616342373351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
+  </component>
+</project>

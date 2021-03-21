@@ -11,7 +11,7 @@ function Skills() {
                 <div className={style.skills}>
                     <Skill title = {'Js'} description ={' la lalalalalala'} />
                     <Skill title = {'CSS'} description ={' ldfвипса аипсисир апаспспсап сапсапсап иgfdgfdfffff'}/>
-                    <Skill title = {'React'} description ={' jjhkyiy iuykjhlkjkghjhgdfgfdgd gdgfdgggf ghfghddghfhfgnh gnndug hhgjh  dhghdt hsrthfghfg 6576utyu67i jg'}/>
+                    <Skill title = {'React'} description ={' jjhkyiy iuykjhlkj fghfhgghthryr gfhg rthrghfhfgh rtytyrhrty kghjhgdfgfdgd gdgfdgggf ghfghddghfhfgnh gnndug hhgjh  dhghdt hsrthfghfg 6576utyu67i jg'}/>
 
                 </div>
             </div>

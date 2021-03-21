@@ -7,21 +7,25 @@
     text-align: center;
 }
 
-.icon {
+.imgContainer {
     width: 200px;
     height: 200px;
     background-color: darkgrey;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://st.depositphotos.com/1779253/4659/i/950/depositphotos_46591605-stock-photo-leader-hand-working-with-modern.jpg");
+    background-size: cover;
+    background-position: center ;
 }
 
 .title {
-    background-color: #8f8282;
-}
-.watch {
-    background-color: #8f8282;
-    margin: 30px;
+    background-color: #a27d7d;
+    margin: 10px;
 }
 
-.margin{
-   margin: 10px;
+.watch_Button {
+    background-color: #b78888;
+    /*margin: 50px;*/
 }
+

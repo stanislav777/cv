@@ -5,11 +5,11 @@ import Form from "./form/Form";
 
 function Contact() {
     return (
-        <div className={style.projectsBlock}>
-            <div className={`${styleContainer.container} ${style.projectsContainer}`}>
+        <div className={style.contactsBlock}>
+            <div className={`${styleContainer.container} ${style.contactsContainer}`}>
                 <h2 className={style.title}>Контакты</h2>
-                <div className={style.projects}>
-                    <Form/>
+                <div className={style.contacts}>
+                    <Form />
                 </div>
                 <h2 className={style.button}>Отправить</h2>
             </div>

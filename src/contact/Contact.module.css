@@ -1,16 +1,16 @@
-.projectsBlock {
+.contactsBlock {
     height: 40vh;
     background-color: #749470;
 }
 
-.projectsContainer {
+.contactsContainer {
     flex-direction: column;
     justify-content: space-between;
 }
 
 
 
-.projects {
+.contacts {
     height: auto;
     border: 1px solid;
     width: 50%;

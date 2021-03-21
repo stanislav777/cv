@@ -2,7 +2,6 @@ import React from 'react';
 import style from './Footer.module.css';
 import styleContainer from '../common/styles/Container.module.css';
 import FooterBlock from "./block/FooterBlock";
-import Form from "../contact/form/Form";
 
 function Footer() {
     return (
@@ -19,7 +18,6 @@ function Footer() {
             </div>
         </div>
     );
-
 }
 
 export default Footer;

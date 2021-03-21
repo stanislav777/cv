@@ -9,7 +9,7 @@ function Projects() {
             <div className={`${styleContainer.container} ${style.projectsContainer}`}>
                 <h2 className={style.title}>My projects</h2>
                 <div className={style.projects}>
-                    <Project title = {'Js'} description ={' la lalalalalala'} />
+                    <Project title = {'Js'} description ={' la lalalala fgdgdgdfg dfgfdgdgd dtgdrtdfg dfgfdgdfgd dfgdfgdfg  dfgdfgdfg fdgdfgdfg trtyfyfg fdgf lala'} />
                     <Project title = {'CSS'} description ={' ldfвипса аипсисир апаспспсап сапсапсап иgfdgfdfffff'}/>
 
                 </div>
