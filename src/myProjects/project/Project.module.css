@@ -1,5 +1,6 @@
 .project {
-    width: 200px;
+    min-width: 290px;
+    max-width: 290px;
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;

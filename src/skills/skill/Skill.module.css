@@ -1,5 +1,6 @@
 .skill {
-    width: 200px;
+    min-width: 285px;
+    max-width: 290px;
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;
@@ -16,6 +17,3 @@
 
 }
 
-.description {
-
-}
